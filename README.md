@@ -6,3 +6,4 @@ We utilise Brazilian E-commerce data to construct several variables of interest,
 
 We go through data introdution, EDA, CV for models, and best model selection
 
+Post deadline additions: CatBoost (finished), Summary, NN (in-progress)
